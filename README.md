@@ -1,4 +1,4 @@
 - Hi, I’m @hekht
-- I’m currently learning webdev and some random programming languages, including Java, C and Scheme.
+- I’m currently learning C development, playing with lisp and python
 - I'm also learning german language, hope to start computer science at Regensburg in a year or so.
 - In near future you will be able to find me at hekht.xyz and klaudiuszwarda.xyz
