@@ -1,4 +1,3 @@
 - Hi, I’m @hekht
-- I’m currently learning C development, playing with lisp and python
-- I'm also learning german language, hope to start computer science at Regensburg in a year or so.
+- Currently learning python and trying to move from simple exercises to multifile projects
 - In near future you will be able to find me at hekht.xyz and klaudiuszwarda.xyz
