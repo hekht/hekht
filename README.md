@@ -1,3 +1,2 @@
 - Hi, I’m @hekht
-- Currently learning python and trying to move from simple exercises to multifile projects
 - In near future you will be able to find me at hekht.xyz and klaudiuszwarda.xyz
