@@ -1,2 +1,1 @@
 - Hi, I’m @hekht
-- In near future you will be able to find me at hekht.xyz and klaudiuszwarda.xyz
